@@ -2,16 +2,16 @@
     {
      "title": "Farm land 1",
      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium nesciunt quo hic deleniti aliquam voluptas quisquam, quos magni asperiores error quae minima est esse repellendus eaque ab velit facilis dolores ratione corrupti. Non ad amet corporis consectetur, iusto blanditiis quaerat odio facere aliquid nam dolorem vitae sunt dolore voluptatum enim.",
-     "image":"images/FingerPrint.svg"  
+     "image":"public/images/FingerPrint.svg"  
     },
     {
      "title": "Farm land 2",
      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium nesciunt quo hic deleniti aliquam voluptas quisquam, quos magni asperiores error quae minima est esse repellendus eaque ab velit facilis dolores ratione corrupti. Non ad amet corporis consectetur, iusto blanditiis quaerat odio facere aliquid nam dolorem vitae sunt dolore voluptatum enim.",
-     "image":"images/FingerPrint.svg"  
+     "image":"public/images/FingerPrint.svg"  
     },
     {
      "title": "Farm land 3",
      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium nesciunt quo hic deleniti aliquam voluptas quisquam, quos magni asperiores error quae minima est esse repellendus eaque ab velit facilis dolores ratione corrupti. Non ad amet corporis consectetur, iusto blanditiis quaerat odio facere aliquid nam dolorem vitae sunt dolore voluptatum enim.",
-     "image":"images/FingerPrint.svg"  
+     "image":"public/images/FingerPrint.svg"  
     }
 ]
